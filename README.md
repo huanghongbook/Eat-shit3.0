@@ -1,1 +1,1 @@
-# Eat-shit3.0
+# This application is written in scratch
